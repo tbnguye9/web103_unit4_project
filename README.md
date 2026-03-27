@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[Video Walkthrough](https://i.imgur.com/g4lB8TK.mp4) | Gif Images: https://imgur.com/a/qT8QfBR
+[Video Walkthrough](https://i.imgur.com/g4lB8TK.mp4) | Gif Images: https://imgur.com/a/qT8QfBR.gif
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
